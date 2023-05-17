@@ -70,44 +70,8 @@ jobs:
       with:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USER }}
-        key: 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
-        passphrase: ${{ secrets.PASSPHRASE }} # Если ваш ssh-ключ защищён фразой-паролем
+        key: ${{ secrets.SSH_KEY }}
+         # Если ваш ssh-ключ защищён фразой-паролем
         script: |
           # Выполняет pull образа с DockerHub
           sudo docker pull hun53/api_yamdb
